@@ -4,6 +4,8 @@
 
 **A two-player dice game (Pig) — roll, hold, and race to 100 points.**
 
+<img src="screenshot.png" alt="Lanza tu Suerte screenshot" width="600">
+
 <p>
   <a href="https://anthoniriv.github.io/lanzatusuerte/"><img src="https://img.shields.io/badge/Play_Now-00C853?style=for-the-badge&logo=github" alt="Play Now"></a>
 </p>
